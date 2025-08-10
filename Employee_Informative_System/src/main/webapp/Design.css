@@ -1,0 +1,15 @@
+body 
+{
+	background-color:powderblue;
+	align-items: center;
+}
+form 
+{
+	background-color:#4f0a02;
+	border: 2px solid #000000;
+	width: 300px;
+	margin: 0 auto;
+	padding: 30px;
+	color:#ffffff;
+	font-size: 100%;
+}
